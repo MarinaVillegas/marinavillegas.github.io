@@ -5,7 +5,6 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #D26BE8;
 }
 
 .container {
@@ -54,7 +53,7 @@ header nav {
 
 .showcase {
     min-height: 400px;
-    background: url('https://opcionate.com/wp-content/uploads/2022/08/Corresponsabilidad.png') no-repeat center center/cover;
+    background-color: #D26BE8;
     text-align: center;
     color: #ffffff;
     display: flex;
