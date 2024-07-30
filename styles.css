@@ -99,6 +99,14 @@ header nav {
     margin: 10px 0;
 }
 
+.imagen-flotante {
+    position: fixed;
+    top: 10px;  /* Ajusta esta distancia según lo necesites */
+    right: 10px;  /* Ajusta esta distancia según lo necesites */
+    z-index: 1000;  /* Asegura que la imagen esté por encima de otros elementos */
+    width: 100px;  /* Ajusta el tamaño de la imagen según lo necesites */
+    height: auto;  /* Mantén la proporción de la imagen */
+
 footer {
     background: #333333;
     color: #ffffff;
