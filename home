@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto de Intervención Grupal en Canarias</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Asegúrate de crear un archivo CSS para el diseño -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #50b3a2;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header a {
+            color: #ffffff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .showcase {
+            min-height: 400px;
+            background: url('canarias.jpg') no-repeat 0 -400px;
+            text-align: center;
+            color: #ffffff;
+        }
+        .showcase h1 {
+            margin-top: 100px;
+            font-size: 55px;
+            margin-bottom: 10px;
+        }
+        .showcase p {
+            font-size: 20px;
+        }
+        .content {
+            padding: 20px;
+        }
+        footer {
+            background: #333333;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Proyecto de Conciliación, Coeducación y Gestión del Tiempo</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#descripcion">Descripción</a></li>
+                    <li><a href="#objetivos">Objetivos</a></li>
+                    <li><a href="#actividades">Actividades</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="showcase">
+        <div class="container">
+            <h1>Bienvenidos al Proyecto</h1>
+            <p>Promoviendo la conciliación, la coeducación y una mejor gestión del tiempo en Canarias.</p>
+        </div>
+    </section>
+
+    <section id="descripcion" class="content">
+        <div class="container">
+            <h2>Descripción del Proyecto</h2>
+            <p>El proyecto busca mejorar la calidad de vida de las familias en Canarias mediante estrategias de conciliación laboral y familiar, prácticas de coeducación y una gestión eficiente del tiempo.</p>
+        </div>
+    </section>
+
+    <section id="objetivos" class="content">
+        <div class="container">
+            <h2>Objetivos</h2>
+            <ul>
+                <li>Fomentar la igualdad de género en el ámbito doméstico y laboral.</li>
+                <li>Desarrollar habilidades para una mejor gestión del tiempo.</li>
+                <li>Crear espacios de coeducación en la comunidad.</li>
+                <li>Promover políticas de conciliación en empresas y organismos públicos.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="actividades" class="content">
+        <div class="container">
+            <h2>Actividades</h2>
+            <ul>
+                <li>Talleres sobre gestión del tiempo y conciliación.</li>
+                <li>Charlas y debates sobre coeducación.</li>
+                <li>Actividades lúdicas y educativas para familias.</li>
+                <li>Colaboraciones con empresas y entidades públicas.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contacto" class="content">
+        <div class="container">
+            <h2>Contacto</h2>
+            <p>Para más información, puedes contactarnos en:</p>
+            <p>Email: info@proyectocanarias.org</p>
+            <p>Teléfono: +34 123 456 789</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Proyecto de Intervención Grupal en Canarias &copy; 2024</p>
+    </footer>
+</body>
+</html>
