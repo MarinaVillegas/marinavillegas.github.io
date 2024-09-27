@@ -1,15 +1,33 @@
-Introducción al Proyecto
-Breve Descripción del Proyecto
+# Marina Villegas English Classes Website
 
-El Proyecto de Intervención Grupal en Canarias está diseñado para abordar tres áreas clave: conciliación, coeducación y gestión del tiempo.
-Se trata de una iniciativa comunitaria que busca mejorar la calidad de vida de las familias canarias mediante la implementación de estrategias innovadoras y participativas.
-Importancia de la Conciliación, Coeducación y Gestión del Tiempo
+This is a simple, professional website to showcase the English teaching services of Marina Villegas. The site is designed to advertise services, including personalized lessons, specialized classes for programmers, and customized e-books based on student interests.
 
-Conciliación: Permitir a las personas equilibrar sus responsabilidades laborales y familiares, promoviendo el bienestar y reduciendo el estrés.
-Coeducación: Fomentar la igualdad de género desde la infancia, asegurando que tanto niños como niñas reciban las mismas oportunidades y aprendizajes.
-Gestión del Tiempo: Enseñar técnicas y habilidades para administrar el tiempo de manera efectiva, permitiendo una vida más organizada y productiva.
-Contexto del Proyecto en Canarias
+## Features
+- Responsive and modern design.
+- Header with a background image and smooth text animations.
+- Services section highlighting the different types of English lessons offered.
+- Contact section with clickable phone and email links.
+- Hover effects for a more interactive user experience.
 
-Canarias se enfrenta a desafíos únicos en términos de conciliación y coeducación debido a su geografía y estructura socioeconómica.
-El proyecto está alineado con las políticas regionales y nacionales que promueven la igualdad de género y el bienestar familiar.
-La comunidad canaria ha mostrado un interés creciente en iniciativas que apoyen la gestión del tiempo y la conciliación, lo que hace de este proyecto una necesidad y una oportunidad para un impacto positivo.
+## Sections
+1. **About Me**: Introduction to Marina Villegas and her teaching approach.
+2. **Services**: Overview of personalized lessons, professional English courses, classes for programmers, and custom e-books.
+3. **Contact**: Direct links to contact via phone and email.
+
+## Technologies Used
+- **HTML5**: For the structure of the website.
+- **CSS3**: For styling and layout, with modern effects like animations and transitions.
+- **Google Fonts**: Poppins font for a clean, modern appearance.
+
+## Getting Started
+
+To get a copy of this project up and running on your local machine, follow these simple steps:
+
+### Prerequisites
+You'll need a web browser like Google Chrome, Mozilla Firefox, or Safari to open the `index.html` file.
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/english-classes-website.git
